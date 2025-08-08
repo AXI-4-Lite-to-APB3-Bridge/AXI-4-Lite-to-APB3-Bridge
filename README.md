@@ -40,12 +40,12 @@ Simplifying Control Logic:
 APB's simplified transaction structure helps reduce complexity for devices that don’t need burst transfers or pipelining.
 
 
-AXI APB Bridge block diagram 
+## AXI APB Bridge block diagram 
 
 <img width="1016" height="707" alt="image" src="https://github.com/user-attachments/assets/5fc97ad6-0947-4373-901e-8b50229e9322" />
 
 
-Verification Architecture 
+## Verification Architecture 
 
 <img width="1158" height="552" alt="image" src="https://github.com/user-attachments/assets/4ec5d5b0-d02b-4680-8340-fecbbab5a571" />
 
